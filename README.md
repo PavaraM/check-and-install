@@ -1,5 +1,7 @@
 # let-me-go-home
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A fun and interactive **Bash script** that checks if a Linux tool is installed and installs it automatically if missing. Perfect for beginners, Linux users, or anyone who wants a playful yet practical setup script.
 
 ---
@@ -47,6 +49,3 @@ curl is already installed
 - Designed for Ubuntu/Debian-based systems using apt.
 - Requires sudo privileges for installing packages.
 - Fun Easter egg variables (letmegohome, jobdone) add personality to the script.
-
-## License
-This project is open source and free to use. No restrictions, just enjoy!
