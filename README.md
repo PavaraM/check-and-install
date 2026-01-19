@@ -39,14 +39,14 @@ What is the tool you need: curl
 curl is already installed
 ```
 
-##Logs
+## Logs
 - `toolinstall.log` – contains all the normal output from updates and installs
 - `toolinstall_errors.log` – contains errors encountered during installation
 
-##Notes
+## Notes
 - Designed for Ubuntu/Debian-based systems using apt.
 - Requires sudo privileges for installing packages.
 - Fun Easter egg variables (letmegohome, jobdone) add personality to the script.
 
-##License
+## License
 This project is open source and free to use. No restrictions, just enjoy!
