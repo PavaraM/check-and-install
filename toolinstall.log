@@ -1,0 +1,68 @@
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://lk.archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://lk.archive.ubuntu.com/ubuntu noble-updates InRelease
+Get:4 http://lk.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:5 http://lk.archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [7,300 B]
+Get:6 http://lk.archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [216 B]
+Get:7 http://lk.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [10.5 kB]
+Get:8 http://lk.archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+Fetched 144 kB in 3s (56.0 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+DEBUG: Mon 19 Jan 21:55:34 +0530 2026
+DEBUG: Mon 19 Jan 21:55:35 +0530 2026
+DEBUG: Mon 19 Jan 21:56:42 +0530 2026
+Get:1 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Hit:2 http://lk.archive.ubuntu.com/ubuntu noble InRelease
+Get:3 http://lk.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [1,408 kB]
+Hit:5 http://lk.archive.ubuntu.com/ubuntu noble-backports InRelease
+Get:6 http://lk.archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [175 kB]
+Get:7 http://lk.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+Get:8 http://lk.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [377 kB]
+Get:9 http://security.ubuntu.com/ubuntu noble-security/main Translation-en [229 kB]
+Get:10 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21.5 kB]
+Get:11 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [212 B]
+Get:12 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [924 kB]
+Get:13 http://security.ubuntu.com/ubuntu noble-security/universe Translation-en [209 kB]
+Get:14 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [71.4 kB]
+Get:15 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [212 B]
+Get:16 http://lk.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+Fetched 3,669 kB in 2s (1,574 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Suggested packages:
+  default-mta | mail-transport-agent
+The following NEW packages will be installed:
+  at
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 40.6 kB of archives.
+After this operation, 159 kB of additional disk space will be used.
+Get:1 http://lk.archive.ubuntu.com/ubuntu noble/universe amd64 at amd64 3.2.5-2.1ubuntu3 [40.6 kB]
+Fetched 40.6 kB in 1s (54.6 kB/s)
+Selecting previously unselected package at.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88988 files and directories currently installed.)
+Preparing to unpack .../at_3.2.5-2.1ubuntu3_amd64.deb ...
+Unpacking at (3.2.5-2.1ubuntu3) ...
+Setting up at (3.2.5-2.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
