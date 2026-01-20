@@ -1,4 +1,4 @@
-# let-me-go-home
+# Check and Install
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
