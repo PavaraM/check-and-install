@@ -20,11 +20,11 @@ A fun and interactive **Bash script** that checks if a Linux tool is installed a
 1. Make the script executable:
 
 ```bash
-chmod +x let-me-go-home.sh
+chmod +x doihaveit.sh
 ```
 2. Run the script:
 ```bash
-./let-me-go-home.sh
+./doihaveit.sh
 ```
 3. Enter the name of the tool you want to check/install when prompted.
 4. The script will:
@@ -34,7 +34,7 @@ chmod +x let-me-go-home.sh
 
 ## Example
 ```bahs
-$ ./let-me-go-home.sh
+$ ./doihaveit.sh
 This Program will check and install a tool you need
 
 What is the tool you need: curl
