@@ -50,7 +50,7 @@ Check and Install Tool Script
 ------------------------------
 Version 2.0
 
-This script will check for the tool you need and install it if missing.
+This script will check for the existance of a tool and install it if it is not found.
 
 What is the tool you need: curl
 curl is already installed
